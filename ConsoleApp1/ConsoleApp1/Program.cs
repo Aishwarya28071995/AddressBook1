@@ -2,7 +2,7 @@
 
 namespace ConsoleApp1
 {
-    internal class Program
+    internal class AddressBookMain
     {
         static void Main(string[] args)
         {
